@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1414CDB-D4D2-4434-9222-487843E6EC0F</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B</key>
+		<string>github.com:jatoben/CommandLine.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B</key>
+		<string>CommandLine/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jatoben/CommandLine.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CBF5F70D4EDC8047BC75C25236002B0EA7F6B15B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CommandLine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
